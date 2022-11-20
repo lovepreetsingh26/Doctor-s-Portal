@@ -1,0 +1,363 @@
+#h1
+{
+    display: inline;
+    color: black;
+    font-family: cursive;
+    font-size: 55px;
+    font-weight: 900;
+}
+#h2
+{
+    display: inline;
+    color: cyan;
+    font-family: cursive;
+    font-size: 55px;
+    font-weight: 900;
+}
+#header1,
+{
+    display: inline;
+}
+#header2
+{
+    display: inline;
+    position: relative;
+    left: 900px;
+}
+header
+{
+    background-color: linen;
+    height: 125px;
+    background-image: url('images/blur.jpg');
+}
+#logo
+{
+   position: relative;
+   left: 650px;
+   height: 225px;
+}
+#nav
+{
+ 
+    color: white;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+#sectionf
+{
+font-family: cursive;
+}
+#section
+{
+    margin-top: 45px;
+    padding-top: 25px;
+}
+.button1
+{
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    font: 1em sans-serif;
+}
+#logoside
+{
+    display: inline;
+    position: relative;
+    left: 1300px;
+}
+#navside1
+{
+    float: right;
+    font-size: 20px;
+}
+#navside2
+{
+    float: right;
+    font-size: 17px;
+}
+#buttonnav
+{
+    color: white;
+    background: black;
+    padding: 3px;
+    float: right;
+}
+#sectionf
+{
+
+}
+#opdschedule
+{
+    background-color: linen;
+    width: 30%;
+    
+}
+#oshding
+{
+    font-weight: 1000;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+#osbdy
+{
+    font-weight: 600;
+    font-family:'Courier New', Courier, monospace;
+}
+#hep
+{
+    width: 15%;
+    position:absolute;
+    left: 485px;
+    margin-top: -400px;
+   
+     font-family: 'Courier New', Courier, monospace;
+}
+.docname
+{
+    font-family: cursive;
+    
+}
+.depn
+{
+text-decoration: underline;
+font-family: 'Courier New', Courier, monospace;
+}
+.ent
+{
+    width: 15%;
+    position:absolute;
+    left: 725px;
+    margin-top: -400px;
+     font-family: 'Courier New', Courier, monospace;
+}
+.endo{
+    width: 25%;
+    position:absolute;
+    left: 1000px;
+    margin-top: -430px;
+     font-family: 'Courier New', Courier, monospace;
+}
+.psy
+{
+    width: 30%;
+    position:absolute;
+    
+     font-family: 'Courier New', Courier, monospace;
+}
+.opth
+{
+    width: 30%;
+    position: absolute;
+    left: 425px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card
+{
+    width: 30%;
+    position: absolute;
+    left: 925px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.skin
+{
+    width: 30%;
+    position: absolute;
+    top: 255px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.gast
+{
+    width: 30%;
+    position: absolute;
+    top: 225px;
+    left: 425px;
+    font-family: 'Courier New', Courier, monospace;  
+}
+.neuro
+{
+    width: 30%;
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    margin-bottom: 25px;
+    font-family: 'Courier New', Courier, monospace;  
+}
+.section2
+{
+  
+    position: absolute;
+    top: 1425px;
+    margin-left: 195px;
+    font-family: 'Courier New', Courier, monospace;  
+}
+#section1
+{
+    position: absolute;
+    top: 1725px;
+    margin-left: 195px;
+    font-family: 'Courier New', Courier, monospace; 
+}
+#section3
+{
+    position: absolute;
+    top: 2100px;
+    margin-left: 195px;
+  font-family: cursive;
+}
+#footer
+{
+    position: absolute;
+    top: 3150px;
+    margin: 195px;
+    border-top: black dashed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#fdiv
+{
+    color: black;
+    column-count: 2;
+}
+#fdiv2
+{
+    width: 75%;
+    position: absolute;
+    bottom: 65px;
+    left: 655px;
+    border-top: black dashed;
+}
+#footerdep
+{
+    width: 25%;
+   
+   border-top: black dotted;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fdivdep
+{
+    color: black;
+    column-count: 2;
+}
+#fdiv2dep
+{
+    width: 25%;
+    position: absolute;
+    top: 185px;
+    right: 205px;
+    border-top: black dashed;
+}
+
+.bkgm1
+{ background-image: url("images/bkg1.jpg");
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    height: 50%;
+}
+.bkgm2
+{
+    background-image: url("images/lab2.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50%;
+    position: relative;
+    bottom: 347px;
+    margin-left: +655px;
+    margin-bottom: -10px;
+
+}
+#footerap
+{
+    
+    border-top: black dashed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 55%;
+    margin-top: -266px;
+
+}
+#fdivap
+{
+    color: black;
+    column-count: 2;
+}
+
+
+.centerh1
+{ position: relative;
+    left: 5%;
+    width: 35%;
+    column-count: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+#ch2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    position: relative;
+    left: 5%;
+    bottom: 25px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.secpage
+{
+    text-align: center;
+}
+#secpgh
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+.secpage,.column
+{
+    position: relative;
+    top: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    column-count: 3;
+    background-color: linen;
+}
+.center
+{
+    height: 430px;
+    font-family: sofia-pro,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    
+}
+.center >h4{
+    text-decoration: underline;
+    font-size: 28px;
+}
+.center2{
+	background-color: linen;
+	height: 400px;
+    padding-right:  10%;
+    font-family: sofia-pro,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+}
+.center2>h4
+{
+    text-decoration: underline;
+    font-size: 18px;
+}
+#imgburn
+{
+    position: relative;
+    top: 19px;
+}
+.center3
+{
+    height: 400px;
+    font-family: sofia-pro,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+}
+.center3>h4
+{
+    text-decoration: underline;
+    font-size: 20px;
+
+}
